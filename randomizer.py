@@ -1,12 +1,12 @@
 bl_info = {
-    "name": "FZRandomizer",
-    "author": "FruitZeus",
+    "name": "Randomizer",
+    "author": "Zombie",
     "version": (2, 1),
     "blender": (3, 0, 0),
     "location": "Properties > Object Data Properties",
     "description": "Randomize Characters & Mesh Objects",
     "warning": "",
-    "doc_url": "www.youtube.com/fruitzeus",
+    "doc_url": "",
     "category": "Mesh",
 }
 
