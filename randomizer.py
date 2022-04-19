@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Randomizer",
-    "author": "Zombie:FruitZeus",
+    "author": "Zombie",
     "version": (2, 1),
     "blender": (3, 0, 0),
     "location": "Properties > Object Data Properties",
