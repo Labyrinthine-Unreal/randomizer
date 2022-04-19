@@ -4,9 +4,9 @@ bl_info = {
     "version": (2, 1),
     "blender": (3, 0, 0),
     "location": "Properties > Object Data Properties",
-    "description": "Randomize Characters & Mesh Objects",
+    "description": "Randomize Mask & Mesh Objects",
     "warning": "",
-    "doc_url": "",
+    "doc_url": "https://github.com/orgs/Labyrinthine-Unreal/repositories?type=all",
     "category": "Mesh",
 }
 
