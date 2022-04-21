@@ -23,7 +23,7 @@
 # SOFTWARE.
 
 
-# See the README or https://gitlab.com/jcroisant/batch_export_gltf
+
 # for usage instructions.
 
 
