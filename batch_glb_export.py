@@ -40,7 +40,7 @@ bl_info = {
     'blender': (2, 80, 0),
     'category': 'Import-Export',
     'location': 'File > Export > Batch glTF 2.0 (.glb/.gltf)',
-    'tracker_url': ''
+    'doc_url': 'https://github.com/orgs/Labyrinthine-Unreal/repositories?type=all'
 }
 
 
